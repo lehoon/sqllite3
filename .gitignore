@@ -2,7 +2,9 @@
 *.slo
 *.lo
 *.o
-
+*.obj
+*.tlog
+*.*log
 # Compiled Dynamic libraries
 *.so
 *.dylib
